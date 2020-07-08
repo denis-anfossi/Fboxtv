@@ -1,4 +1,7 @@
-# freetv
+---
+title: Freetv Privacy
+permalink: /privacy
+---
 
 # Freetv Télécommande Freebox - Android Application
 
